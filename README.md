@@ -1,6 +1,6 @@
 # Python Learning Repository
 
-![Image20230801215049](https://github.com/abhisek959/cws-python/assets/140906464/49856297-3d1a-4ed4-b7c1-29743768c8a5)
+![Image20230801215049](https://github.com/abhisek959/cws-python/assets/140906464/a3a56a5d-4599-494d-b34b-5bb3a4f0aa50)
 
 
 
